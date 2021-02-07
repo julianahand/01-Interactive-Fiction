@@ -1,0 +1,272 @@
+{
+    "passages": [
+      {
+        "text": "Standing in the middle of an empty room you see several doors that will allow you to enter a world that is not your own. It is a place where the immpossible comes to life and you are a part of it.\n\n[[Door 1 -> Shore]]\n[[Door 2 -> Wardrobe]]\n[[Door 3 -> Town]]\n[[Door 4 -> Train Station]]",
+        "links": [
+          {
+            "name": "Door 1",
+            "link": "Shore",
+            "pid": "2"
+          },
+          {
+            "name": "Door 2",
+            "link": "Wardrobe",
+            "pid": "3"
+          },
+          {
+            "name": "Door 3 ",
+            "link": " Town",
+            "pid": "4"
+          },
+          {
+            "name": "Door 4 ",
+            "link": " Train Station",
+            "pid": "5"
+          }
+        ],
+        "name": "The Abyss",
+        "pid": "1",
+        "position": {
+          "x": "748",
+          "y": "183.5"
+        }
+      },
+      {
+        "text": "It is dark. The air smells of salt and there is a soft breeze. The sound of waves crashing is soothing. You find yourself standing on a sand bed. In front of you in the the distance you see something moving. you could have sworn it was a type of fish but it looked human. to your left you notice somthing shining with the reflection of the moon light. It is slightly burried within the sand bed beneath the water. To your right you see a figure looking out into the distance.\n\n\n\n[[Go Forward-> Water]]\n[[Go Left-> Object]]\n[[Go Right-> Figure]]\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Forward",
+            "link": " Water",
+            "pid": "6"
+          },
+          {
+            "name": "Go Left",
+            "link": " Object",
+            "pid": "9"
+          },
+          {
+            "name": "Go Right",
+            "link": " Figure",
+            "pid": "10"
+          },
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Shore",
+        "pid": "2",
+        "position": {
+          "x": "360",
+          "y": "295.5"
+        }
+      },
+      {
+        "text": "You find yourself in a barron room. A thin layer of dust is clarly shone on the limited amount of furniture occupying the room. To your left is a door that you are not sure where it will lead you. In front of you is an old looking wardrobe. The door is slightly ajar. When you go to open it fully all you see are fur coats. \n\n[[Go Forward-> Move the coats]]\n[[Go Left-> Door]]\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Forward",
+            "link": " Move the coats",
+            "pid": "7"
+          },
+          {
+            "name": "Go Left",
+            "link": " Door",
+            "pid": "13"
+          },
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Wardrobe",
+        "pid": "3",
+        "position": {
+          "x": "626",
+          "y": "298.5"
+        }
+      },
+      {
+        "text": "It is night time and the full moon is shining in all of its glory and it seems quiet... almost too quiet. it gives yoou an eerie feeling. You find yourself standing in the middle of an empty road in a small looking town that you are unfamiliar with. Looking down at your feet you notice you are barefoot. A dense population of trees encompass both sides of the road. Straight ahead you can make out some buildings further up the road. turning your head to the right you notice a small clearing just past the densly pack trees.\n\n[[Go Forward-> Walk around]]\n[[Go Right-> Clearing]]\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Forward",
+            "link": " Walk around",
+            "pid": "8"
+          },
+          {
+            "name": "Go Right",
+            "link": " Clearing",
+            "pid": "11"
+          },
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Town",
+        "pid": "4",
+        "position": {
+          "x": "867",
+          "y": "298.5"
+        }
+      },
+      {
+        "text": "You find yourself at a train station. It is bustling with life as people try to make their way to their trains. The air is loud. looking around you try to see where you are. In the coner of your eye you could have sworn you saw someone dissapear through a pillar. \n\n[[Investigate-> Pillar]]\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Investigate",
+            "link": " Pillar",
+            "pid": "12"
+          },
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Train Station",
+        "pid": "5",
+        "position": {
+          "x": "1172",
+          "y": "300.5"
+        }
+      },
+      {
+        "text": "Wading further into the water you are submerged into the darkness of the shallows. Looking around for the human like creature you spot it swimming further into the depths of the water. You try to follow it but you quickly run out of oxygen. Your momvments stop. Everything goes dark. All you can do is feel yourself being pushed down deeper. through your eyelids you see a bright light that almost resembled the object you saw earlier.\n\nWhat could it be?\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Water",
+        "pid": "6",
+        "position": {
+          "x": "244",
+          "y": "426.5"
+        }
+      },
+      {
+        "text": "Opening the door further you are faced with an abundance of coats. finding it odd you push the coats aside to see if there was anything else. you noticed that the wardrobe was much deeper than you expected. Stepping inside you continue to push aside coats until you see light peaking out from behind what you can only assume were some snow covered pine trees.\n\nFinding your footing you step out of the wardrobe and on to the snow covered ground of the unknown place. Creatures you had only read about in books walked past you and went on with their daily lives. approching a creature who was half man and what you presummed to be half goat approaches you.\n\n\"Welcome home your highness.\"\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Move the coats",
+        "pid": "7",
+        "position": {
+          "x": "623",
+          "y": "429.5"
+        }
+      },
+      {
+        "text": "Walking down the road you tread cautiously. Every little thing about the town feels off. You somehow make your way to the Sherriffs deparment and see that things are hectic. Stepping insdie a man, who you persume to be the Sherriff, looks at you and looks worried. Somethings really wrong and it might just have to do with you.\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Walk around",
+        "pid": "8",
+        "position": {
+          "x": "868",
+          "y": "427.5"
+        }
+      },
+      {
+        "text": "The shining object seemed to have put you into some sort of a trance. the closer you got it the more mesmerizing it become. It was almost as though you had no control over your own actions.\n\nKneeling onto the sand bed you dig up the object. It was iredescent in color and smooth to the touch.Suddenly you feel youself plunge into the water as if a force is dragging you down. Your body starts to transform. Your legs are replaced with a tale and your toes with fins. Slits form upon your neck and you can breathe much better.\n\n\"What's happening to me?\"\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Object",
+        "pid": "9",
+        "position": {
+          "x": "498",
+          "y": "430.5"
+        }
+      },
+      {
+        "text": "As you started to walk towards the figure their identity remained a mystery to you due to the darkness that surround you. You could however see that it was moving further into the water soon dissapearing from sight the closer you got.\n\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Figure",
+        "pid": "10",
+        "position": {
+          "x": "373",
+          "y": "430.5"
+        }
+      },
+      {
+        "text": "Making your way towards the clearing you are cautious. Every little sound you hear makes you jump. The wind whistled and rustled the trees causing a chill to run up your spine.\n\nReaching the clearing you felt a sense of a mixture of calm and dread. The calm was almost immediatly replaced by fear as you hear growling.\n\nYou try to run but whatever was growling you pounced onto you and bit you. you body feels like it is on fire.\n\n\"What's happening to me?\"\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Clearing",
+        "pid": "11",
+        "position": {
+          "x": "867",
+          "y": "547.5"
+        }
+      },
+      {
+        "text": "Taking a leap of faith you run at the wall full speed head on. To your surprise instead of hitting your head like you planned you find youself on the other side of an even more busy train station, Platform 8 7/8. It is almost like magic.\n\nLooking around you, you completely ignore the fact that you could be bumped into and by just your luck someone ran into you full force from behind. Apoligizing profusely they suddenly stop when they recognize how you are.\n\n\"I know you. You're the wizard who lived.\"\n\n\n[[Go Back->The Abyss]]",
+        "links": [
+          {
+            "name": "Go Back",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Pillar",
+        "pid": "12",
+        "position": {
+          "x": "1175",
+          "y": "429.5"
+        }
+      },
+      {
+        "text": "Turning to your left you decide that its best not to snoop and try to make your escape. Moving towards the door you leave the room and pretend that nothing happened.\n\n\n\n[[Leave->The Abyss]]",
+        "links": [
+          {
+            "name": "Leave",
+            "link": "The Abyss",
+            "pid": "1"
+          }
+        ],
+        "name": " Door",
+        "pid": "13",
+        "position": {
+          "x": "629",
+          "y": "551.5"
+        }
+      }
+    ],
+    "name": "Abyss",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.3.11",
+    "ifid": "A523534B-DDBD-490E-AAB8-A34AE07C9EAB"
+  }
