@@ -32,7 +32,7 @@
         }
       },
       {
-        "text": "It is dark. The air smells of salt and there is a soft breeze. The sound of waves crashing is soothing. You find yourself standing on a sand bed. In front of you in the the distance you see something moving. you could have sworn it was a type of fish but it looked human. to your left you notice somthing shining with the reflection of the moon light. It is slightly burried within the sand bed beneath the water. To your right you see a figure looking out into the distance.\n\n\n\n[[Go Forward-> Water]]\n[[Go Left-> Object]]\n[[Go Right-> Figure]]\n[[Go Back->The Abyss]]",
+        "text": "It is dark. The air smells of salt and there is a soft breeze. The sound of waves crashing is soothing. You find yourself standing on a sand bed. In front of you in the the distance you see something moving. You could have sworn it was a type of fish but it looked human. To your left you notice somthing shining with the reflection of the moon light. It is slightly burried within the sand bed beneath the water. To your right you see a figure looking out into the distance.\n\n\n\n[[Go Forward-> Water]]\n[[Go Left-> Object]]\n[[Go Right-> Figure]]\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Forward",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "text": "You find yourself in a barron room. A thin layer of dust is clarly shone on the limited amount of furniture occupying the room. To your left is a door that you are not sure where it will lead you. In front of you is an old looking wardrobe. The door is slightly ajar. When you go to open it fully all you see are fur coats. \n\n[[Go Forward-> Move the coats]]\n[[Go Left-> Door]]\n[[Go Back->The Abyss]]",
+        "text": "You find yourself in a baron room. A thin layer of dust is clearly shone on the limited amount of furniture occupying the room. To your left is a door that you are not sure where it will lead. In front of you is an old looking wardrobe. The door is slightly ajar. When you go to open it fully all you see are fur coats. \n\n[[Go Forward-> Move the coats]]\n[[Go Left-> Door]]\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Forward",
@@ -89,7 +89,7 @@
         }
       },
       {
-        "text": "It is night time and the full moon is shining in all of its glory and it seems quiet... almost too quiet. it gives yoou an eerie feeling. You find yourself standing in the middle of an empty road in a small looking town that you are unfamiliar with. Looking down at your feet you notice you are barefoot. A dense population of trees encompass both sides of the road. Straight ahead you can make out some buildings further up the road. turning your head to the right you notice a small clearing just past the densly pack trees.\n\n[[Go Forward-> Walk around]]\n[[Go Right-> Clearing]]\n[[Go Back->The Abyss]]",
+        "text": "It is night time and the full moon is shining in all of its glory and it seems quiet... almost too quiet. It gives you an eerie feeling. You find yourself standing in the middle of an empty road in a small looking town that you are unfamiliar with. Looking down at your feet you notice you are barefoot. A dense population of trees encompass both sides of the road. Straight ahead you can make out some buildings further up the road. turning your head to the right you notice a small clearing just past the densly pack trees.\n\n[[Go Forward-> Walk around]]\n[[Go Right-> Clearing]]\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Forward",
@@ -136,7 +136,7 @@
         }
       },
       {
-        "text": "Wading further into the water you are submerged into the darkness of the shallows. Looking around for the human like creature you spot it swimming further into the depths of the water. You try to follow it but you quickly run out of oxygen. Your momvments stop. Everything goes dark. All you can do is feel yourself being pushed down deeper. through your eyelids you see a bright light that almost resembled the object you saw earlier.\n\nWhat could it be?\n\n\n[[Go Back->The Abyss]]",
+        "text": "Wading further into the water you are submerged into the darkness of the shallows. Looking around for the human like creature you spot it swimming further into the depths of the water. You try to follow it but you quickly run out of oxygen. Your movements stop. Everything goes dark. All you can do is feel yourself being pushed down deeper. through your eyelids you see a bright light that almost resembled the object you saw earlier.\n\nWhat could it be?\n\n\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Back",
@@ -152,7 +152,7 @@
         }
       },
       {
-        "text": "Opening the door further you are faced with an abundance of coats. finding it odd you push the coats aside to see if there was anything else. you noticed that the wardrobe was much deeper than you expected. Stepping inside you continue to push aside coats until you see light peaking out from behind what you can only assume were some snow covered pine trees.\n\nFinding your footing you step out of the wardrobe and on to the snow covered ground of the unknown place. Creatures you had only read about in books walked past you and went on with their daily lives. approching a creature who was half man and what you presummed to be half goat approaches you.\n\n\"Welcome home your highness.\"\n\n\n[[Go Back->The Abyss]]",
+        "text": "Opening the door further you are faced with an abundance of coats. finding it odd you push the coats aside to see if there was anything else. You noticed that the wardrobe was much deeper than you expected. Stepping inside you continue to push aside coats until you see light peaking out from behind what you can only assume were some snow covered pine trees.\n\nFinding your footing you step out of the wardrobe and on to the snow covered ground of the unknown place. Creatures you had only read about in books walked past you and went on with their daily lives. Approching a creature who was half man and what you presummed to be half goat approaches you.\n\n\"Welcome home your highness.\"\n\n\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Back",
@@ -168,7 +168,7 @@
         }
       },
       {
-        "text": "Walking down the road you tread cautiously. Every little thing about the town feels off. You somehow make your way to the Sherriffs deparment and see that things are hectic. Stepping insdie a man, who you persume to be the Sherriff, looks at you and looks worried. Somethings really wrong and it might just have to do with you.\n\n\n[[Go Back->The Abyss]]",
+        "text": "Walking down the road you tread cautiously. Every little thing about the town feels off. You somehow make your way to the Sheriffs deparment and see that things are hectic. Stepping insdie a man, who you persume to be the Sheriff, looks at you and looks worried. Somethings really wrong and it might just have to do with you.\n\n\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Back",
@@ -184,7 +184,7 @@
         }
       },
       {
-        "text": "The shining object seemed to have put you into some sort of a trance. the closer you got it the more mesmerizing it become. It was almost as though you had no control over your own actions.\n\nKneeling onto the sand bed you dig up the object. It was iredescent in color and smooth to the touch.Suddenly you feel youself plunge into the water as if a force is dragging you down. Your body starts to transform. Your legs are replaced with a tale and your toes with fins. Slits form upon your neck and you can breathe much better.\n\n\"What's happening to me?\"\n\n\n[[Go Back->The Abyss]]",
+        "text": "The shining object seemed to have put you into some sort of a trance. The closer you got to it the more mesmerizing it become. It was almost as though you had no control over your own actions.\n\nKneeling onto the sand bed you dig up the object. It was iredescent in color and smooth to the touch. Suddenly you feel youself plunge into the water as if a force is dragging you down. Your body starts to transform. Your legs are replaced with a tale and your toes with fins. Slits form upon your neck and you can breathe much better.\n\n\"What's happening to me?\"\n\n\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Back",
@@ -200,7 +200,7 @@
         }
       },
       {
-        "text": "As you started to walk towards the figure their identity remained a mystery to you due to the darkness that surround you. You could however see that it was moving further into the water soon dissapearing from sight the closer you got.\n\n\n\n[[Go Back->The Abyss]]",
+        "text": "As you started to walk towards the figure their identity remained a mystery to you due to the darkness that surround you. You could however see that it was moving further into the water soon dissapearing from sight the closer you got. You wanted to follow them but something just held you back.\n\n\n\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Back",
@@ -232,7 +232,7 @@
         }
       },
       {
-        "text": "Taking a leap of faith you run at the wall full speed head on. To your surprise instead of hitting your head like you planned you find youself on the other side of an even more busy train station, Platform 8 7/8. It is almost like magic.\n\nLooking around you, you completely ignore the fact that you could be bumped into and by just your luck someone ran into you full force from behind. Apoligizing profusely they suddenly stop when they recognize how you are.\n\n\"I know you. You're the wizard who lived.\"\n\n\n[[Go Back->The Abyss]]",
+        "text": "Taking a leap of faith you run at the wall full speed head on. To your surprise instead of hitting your head like you planned you find youself on the other side of an even more busy train station, Platform 8 7/8. It is almost like magic.\n\nLooking around you, you completely ignore the fact that you could be bumped into and by just your luck someone ran into you full force from behind. Apoligizing profusely they suddenly stop when they recognize how you are.\n\n\"I know you! You're the wizard who lived.\"\n\n\n[[Go Back->The Abyss]]",
         "links": [
           {
             "name": "Go Back",
@@ -248,7 +248,7 @@
         }
       },
       {
-        "text": "Turning to your left you decide that its best not to snoop and try to make your escape. Moving towards the door you leave the room and pretend that nothing happened.\n\n\n\n[[Leave->The Abyss]]",
+        "text": "Turning to your left you decide that it is best not to snoop and try to make your escape. Moving towards the door you leave the room and pretend that nothing happened. Guess you'll never know what lays inside.\n\n\n\n[[Leave->The Abyss]]",
         "links": [
           {
             "name": "Leave",
